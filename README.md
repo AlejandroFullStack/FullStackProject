@@ -2,9 +2,15 @@
 Proyectos Backend  y frontend con API rest
 
 
-Proyecto backend:
-
+# Docker POSTGRES
 Utiliza Base de datos postgres (ver git contenedores)
+
+1.- Revisar que la base de datos corresponda al proyecto y que esté ejecutándose. 
+
+
+# Proyecto backend  NESTJS:
+
+
 
 1.- Antes de correr el proyecto debe actualizarse la carpeta /node_modules
 
@@ -15,3 +21,9 @@ Utiliza Base de datos postgres (ver git contenedores)
 4.- npm run start:dev
 
 Para deploy se requiere generar el build. 
+
+# Proyecto frontend REACT:
+
+1. nmp run 
+
+
