@@ -24,6 +24,6 @@ Para deploy se requiere generar el build.
 
 # Proyecto frontend REACT:
 
-1. npm run 
+1. npm start
 
 
